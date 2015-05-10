@@ -1,0 +1,90 @@
+.I Washington DC
+National Capital 
+United States of America
+9/11 Attacks
+Lincoln Monument
+Washington Monument
+
+.I New Delhi
+National Capital
+India
+Red Fort
+Mughals
+Parliament
+Yamuna
+
+.I Paris
+National Capital
+France
+Eiffel Tower
+Louvre Museum
+Seine River
+
+.I London
+National Capital
+England
+Parliament
+Big Ben
+Buckingham Palace
+National Gallery
+
+.I Bangalore
+State Capital
+Karnataka
+India
+IT Capital of India
+Vidhanasoudha
+Cubbon Park
+
+.I Mumbai
+State Capital
+Maharashtra
+India
+Gateway of India
+11/26 Attacks
+
+.I Agra
+India
+Red Fort
+Mughals
+Taj Mahal
+
+.I New York City
+United States of America
+9/11 Attacks
+Statue of Liberty
+Empire State Building
+One World Trade Center
+
+.I San Francisco
+United States of America
+California
+Golden Gate Bridge
+
+.I Perth
+State Capital
+Western Australia
+Australia
+Swan Valley
+
+.I Sydney
+State Capital
+New South Wales
+Australia
+Opera House
+
+.I Canberra
+National Capital
+Australia
+Parliament
+National Gallery
+
+.I Los Angeles
+United States of America
+California
+Hollywood
+
+.I Lima
+National Capital
+Peru
+

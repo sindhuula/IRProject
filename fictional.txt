@@ -1,0 +1,129 @@
+.I Harry Potter
+Male
+Books
+Movies
+J K Rowling
+Harry Potter Series
+Wizard/Witch
+Daniel Radcliffe
+
+.I Ronald Weasley
+Male
+Books
+Movies
+J K Rowling
+Harry Potter Series
+Wizard/Witch
+Rupert Grint
+
+.I Hermione Granger
+Female
+Books
+Movies
+J K Rowling
+Harry Potter Series
+Wizard/Witch
+Emma Watson
+
+.I Richard Castle
+Male
+TV Series
+Castle
+Author
+Nathan Fillion
+
+.I Kate Beckett
+Female 
+TV Series
+Castle
+Detective
+Stana Katic
+
+.I Bilbo Baggins
+Male
+Books
+Movies
+JRR Tolkien
+The Lord of the Rings
+The Hobbit
+Hobbit
+Martin Freeman
+
+.I Frodo Baggins
+Books
+Movies
+Male
+JRR Tolkien
+The Lord of the Rings
+The Hobbit
+Hobbit
+Elijah Wood
+
+.I Samwise Gamgee
+Books
+Movies
+JRR Tolkien
+The Lord of the Rings
+Hobbit
+Male
+Sean Austin
+
+.I Georgina Kirrin
+Enid Blyton
+The Famous Five
+Books
+Female
+
+.I Artimis Fowl
+Books
+Male
+Artemis Fowl Series
+Eion Colfer
+Human
+
+.I Holly Short
+Books
+Female
+Artemis Fowl Series
+Eoin Colfer
+Elf
+
+.I Opal Koboi
+Books
+Female
+Artemis Fowl Series
+Eoin Colfer
+Pixie
+
+.I Kevin Ryan
+TV Series
+Male 
+Castle
+Detective
+Seamus Dever
+
+.I Dr John Watson
+Books
+TV Series
+Movies
+Sherlock Holmes
+Sir Arthur Conan Doyle
+Martin Freeman
+Male
+Jude Law
+
+.I Sherlock Holmes
+Books
+TV Series
+Movies
+Sir Arthur Conan Doyle
+Sherlock Holmes
+Benedict Cumberbatch
+Robert Downey Jr
+Male
+
+.I Henry Palmer 
+Male 
+Movies
+The Judge
+Robert Downey Junior

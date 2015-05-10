@@ -1,0 +1,144 @@
+.I Mahatma Gandhi
+Male 
+Dead
+Indian
+Freedom Fighter
+Nonviolence
+
+.I Nelson Mandela
+Male
+Dead
+South Africa
+President
+Apartheid
+Nonviolence
+
+.I Martin Luther King Jr
+Male
+Dead
+United States of America
+Civil rights
+nonviolence
+
+.I Barack Obama
+Male
+Alive
+United States of America
+President
+Current President
+
+.I Pranab Mukherjee
+Male
+Alive
+President
+Current President
+India
+
+.I Theodore Roosevelt
+Male
+Dead
+United States of America
+Past president
+President
+
+.I Queen Victoria II
+Female 
+Dead
+British
+Monarch 
+
+.I Queen Elizabeth II
+Female
+Alive
+British
+Monarch
+
+.I JK Rowling
+Female
+Alive
+British
+Author
+Harry Potter Series
+
+.I JRR Tolkien 
+Male
+Dead
+British
+Author
+The Lord of the Rings
+
+.I William Shakespeare
+Male
+Dead
+British
+Author
+Othello
+Hamlet
+
+.I Dan Brown
+Male 
+Alive
+United States of America
+Author
+Robert Langdon
+The Da Vinci Code
+
+.I Mark Twain
+Male
+Dead
+United States of America
+Author
+Tom Sawyer
+
+.I Marylyn Monroe
+Female
+Dead
+United States of America 
+Actor
+
+.I Robin Williams
+Male
+Dead
+United States of America
+Actor
+
+.I Eddie Murphy
+Male
+Alive
+United States of America
+Actor
+
+.I Daniel Radcliffe
+Male
+Alive
+British
+Actor
+
+.I Dr APJ Abdul Kalam
+Male
+Alive
+India
+President
+Past President
+Scientist
+
+.I Dr Homi Jehangir Bhabha
+Male
+Dead
+India
+Scientist
+Nuclear Physics
+
+.I Dr CV Raman
+Male
+Dead
+India
+Scientist
+Raman Effect
+
+.I Sir Issac Newton
+Male
+Dead
+British 
+Scientist
+Gravity
